@@ -1,3 +1,4 @@
 # Git管理対象外フォルダ・ファイル
 postcode.txt
 zipcodesearch.rb
+*.db
